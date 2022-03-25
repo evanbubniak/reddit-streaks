@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Radeln gehen
-categories: [writestreak, de]
+categories: de
 lang: de
 date: 2022-03-24
 published: true

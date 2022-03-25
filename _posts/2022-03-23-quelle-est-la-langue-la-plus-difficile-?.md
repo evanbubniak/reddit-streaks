@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quelle est la langue la plus difficile ?
-categories: [writestreak, fr]
+categories: fr
 lang: fr
 date: 2022-03-23
 published: true

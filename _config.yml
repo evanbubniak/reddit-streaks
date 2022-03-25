@@ -1,0 +1,22 @@
+title: Reddit Streaks
+email: evan.bubniak@gmail.com
+description: A repository for Reddit language streaks that I write.
+baseurl: "/reddit-streaks" 
+url: "https://evanbubniak.github.io" 
+github_username:  evanbubniak
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

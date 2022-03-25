@@ -6,7 +6,7 @@ lang: de
 date: 2022-03-24
 published: true
 streak-number: 2
-url: https://www.reddit.com/r/WriteStreakGerman/comments/tn8fg4/streak_2_radeln_gehen/
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/tn8fg4/streak_2_radeln_gehen/
 ---
 In dem Gebiet wo ich wohne, wenn es 17 Grad oder so übertrifft und sonnig wird, merkt man das aber schnell an die Zahl von Menschen, die rausgehen um sich das gute Wetter zu gönnen. Man sieht Menschen überall beim Laufen, Spaziergang, Radeln, Yoga und so weiter. Es sind Leben und Energie, und es tut man gut, daran teilzunehmen und das alles einzuatmen.
 

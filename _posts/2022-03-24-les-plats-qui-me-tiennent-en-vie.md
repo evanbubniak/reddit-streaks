@@ -6,7 +6,7 @@ lang: fr
 date: 2022-03-24
 published: true
 streak-number: 2
-url: https://www.reddit.com/r/WriteStreak/comments/tn9guv/streak_2_les_plats_qui_me_tiennent_en_vie/
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/tn9guv/streak_2_les_plats_qui_me_tiennent_en_vie/
 ---
 Suis-je un bon chef ? Non. Mais suis-je au moins un chef ? Encore non. Mais ai-je au moins un boulot ? S'il vous plaît, arrêtez de me poser tant de questions dont les réponses ne feront que vous décevoir. Ça me brise le cœur.
 

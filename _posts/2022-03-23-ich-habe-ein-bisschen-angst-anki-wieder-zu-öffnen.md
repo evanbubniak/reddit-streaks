@@ -6,7 +6,7 @@ lang: de
 date: 2022-03-23
 published: true
 streak-number: 1
-url: https://www.reddit.com/r/WriteStreakGerman/comments/tl89ab/streak_1_ich_habe_ein_bisschen_angst_anki_wieder/
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/tl89ab/streak_1_ich_habe_ein_bisschen_angst_anki_wieder/
 ---
 Ich habe WriteStreak nie ausprobiert. Ich will dass mein normales Konto anonym bleibe, falls ich künftig meine Posts mit Freunden teile, also hab ich ein neues Konto extra für diesen Zweck erstellt.
 

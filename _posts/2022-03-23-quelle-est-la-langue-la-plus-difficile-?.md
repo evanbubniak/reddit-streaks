@@ -6,7 +6,7 @@ lang: fr
 date: 2022-03-23
 published: true
 streak-number: 1
-url: https://www.reddit.com/r/WriteStreak/comments/tl9dbp/streak_1_quelle_est_la_langue_la_plus_difficile/
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/tl9dbp/streak_1_quelle_est_la_langue_la_plus_difficile/
 ---
 La réponse à cette question étant plutôt subjective car elle peut changer en fonction de la langue maternelle du répondant, je veux mentionner les langues *que je galère le plus à apprendre*, de mon point de vue en tant qu'un ricain qui a grandi uniquement avec l'anglais:
 

@@ -6,7 +6,7 @@ lang: it
 date: 2022-03-23
 published: true
 streak-number: 1
-url: https://www.reddit.com/r/WriteStreakIT/comments/tlk48i/streak_1_mi_sento_fortunato/
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tlk48i/streak_1_mi_sento_fortunato/
 ---
 "Mi sento fortunato", in inglese scritto "I'm feeling lucky", è un pulsante su Google Search chi consente agli utenti aprire automaticamente il link del primo risultato della ricerca che l'utente ha effettuata, senza mostrare gli altri risultati.
 

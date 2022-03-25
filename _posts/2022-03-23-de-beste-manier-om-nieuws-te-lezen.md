@@ -6,7 +6,7 @@ lang: nl
 date: 2022-03-23
 published: true
 streak-number: 1
-url: https://www.reddit.com/r/WriteStreakNL/comments/tlvupt/streak_1_de_beste_manier_om_nieuws_te_lezen/
+reddit-url: https://www.reddit.com/r/WriteStreakNL/comments/tlvupt/streak_1_de_beste_manier_om_nieuws_te_lezen/
 ---
 Ik wil vandaag over RSS-feeds praten. Ik heb dit jaar RSS-feeds voor mijzelf ontdekt. Ik ben niet met deze feeds opgegroeid, vermoedelijk omdat Google Reader is gesloten, als ik nog jong war, en voordat ik de kans had om het te gebruiken. Ik moet het vragen: wanneer en waarom zijn de meeste Internet-gebruikers gestopt met RSS? Waarom gebruiken het vandaag relatief weinige mensen?
 

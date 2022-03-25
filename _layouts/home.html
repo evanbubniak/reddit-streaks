@@ -28,10 +28,12 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {%- if post.streak-number -%}
-            {%- assign title = "Streak " | append: post.streak-number | append: ": " | append: post.title -%}
-            {%- else -%}
             {%- assign title = post.title -%}
+            {%- if post.streak-number -%}
+            {%- assign title = "Streak " | append: post.streak-number | append: ": " | append: title -%}
+            {%- endif -%}
+            {%- if post.lang -%}
+            {%- assign title = "(" | append: post.lang | append: ") " | upcase | append: title -%}
             {%- endif -%}
             {{ title | escape }}
           </a>

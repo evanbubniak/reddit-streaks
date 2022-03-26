@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les plats qui me tiennent en vie
-categories: fr
+categories: [fr]
 lang: fr
 date: 2022-03-24
 published: true

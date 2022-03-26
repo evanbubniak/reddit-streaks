@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mi sento fortunato
-categories: it
+categories: [it]
 lang: it
 date: 2022-03-23
 published: true

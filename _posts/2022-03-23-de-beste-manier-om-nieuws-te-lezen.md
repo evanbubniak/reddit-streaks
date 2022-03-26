@@ -1,7 +1,7 @@
 ---
 layout: post
 title: de beste manier om nieuws te lezen
-categories: nl
+categories: [nl]
 lang: nl
 date: 2022-03-23
 published: true

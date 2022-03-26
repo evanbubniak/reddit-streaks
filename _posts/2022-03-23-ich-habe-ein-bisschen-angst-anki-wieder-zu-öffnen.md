@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ich habe ein bisschen Angst Anki wieder zu öffnen
-categories: de
+categories: [de]
 lang: de
 date: 2022-03-23
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ich bin schwul und das ist auch gut so
+title: Ich bin schwul, und das ist auch gut so
 categories: [de]
 lang: de
 date: 2022-03-26

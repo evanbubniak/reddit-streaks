@@ -1,0 +1,29 @@
+name: post-to-reddit
+on: [page_build]
+jobs:
+  make-and-update-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v2
+      - name: setup node
+        uses: actions/setup-node@v2
+
+      - name: install dependencies
+      - run: npm install
+
+      - name: publish new posts to Reddit, add Reddit post URLs, edit published posts
+        run: node index.js
+
+      - name: commit and push changes
+        run: |
+          git config --global user.name "Evan Bubniak"
+          git config --global user.email "evan.bubniak@gmail.com"
+          git add _posts
+          git commit -m "$(date): publish"
+      
+    env:
+      REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+      REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+      REDDIT_APP_ID: ${{ secrets.REDDIT_APP_ID }}
+      REDDIT_APP_SECRET: ${{ secrets.REDDIT_APP_SECRET }}

@@ -19,7 +19,7 @@ jobs:
         run: |
           git config --global user.name "Evan Bubniak"
           git config --global user.email "evan.bubniak@gmail.com"
-          if [[ `git status --porcelain` --untracked-files=no ]]; then
+          if [[ `git status --porcelain --untracked-files=no` ]]; then
           git add _posts
           git commit -m "$(date): publish"
           fi

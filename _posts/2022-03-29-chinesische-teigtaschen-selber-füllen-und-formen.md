@@ -6,7 +6,7 @@ lang: de
 date: 2022-03-29
 published: true
 streak-number: 6
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/trgvgq/streak_6_chinesische_teigtaschen_selber_füllen/
 ---
 Als ich nach New York umzog um mein Studium zu machen, habe ich eine Menge Freunde mit chinesischem Hintergrund, entweder als Migranten, vor allem Hongkonger zweiter oder dritter Generation, oder als internationale Studenten, die nach New York zum Studium gekommen sind, kennengelernt. Zur gleichen Zeit hatte ich auch neulich angefangen, Mandarin zu lernen. (Drei Jahre später habe ich auch mit Kantonesisch angefangen - als Englisch-Muttersprachler sind asiatische Sprachen etwas, bei denen man nicht vorschnell gehen sollte.) Durch die Sprache, die ich lernte, und die Freunde, die ich kennengelernt habe, habe ich während meines Studiums eine ganze Menge über die chinesische Kultur gelernt.
 

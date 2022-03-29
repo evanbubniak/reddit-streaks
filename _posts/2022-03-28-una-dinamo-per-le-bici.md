@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Una dinamo per le bici? 
+title: Una dinamo per le bici?
 categories: [it]
 lang: it
 date: 2022-03-28
 published: true
 streak-number: 1
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tqpqrt/streak_1_una_dinamo_per_le_bici/
 ---
 Da poco tempo ho cominciato a sbrigare qualche piccola commissione (fra cui fare acquisti, portare il compost verso il centro locale di compostaggio, riciclare prodotti elettronici) sulla bici. Ci sono state alcune ragioni: fare più di esercizio, ridurre i costi di trasporto e manutenzione, proteggere l'ambiente, scoprire di più la mia città.
 

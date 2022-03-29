@@ -12,6 +12,9 @@ const langs_to_subreddit = {
     "it": "WriteStreakIT",
     "jp": "WriteStreakJP",
     "nl": "WriteStreakNL",
+    "ko": "WriteStreakKorean",
+    "ru": "WriteStreakRU",
+    "fi": "WriteStreakFI"
 };
 
 const correct_me_flairids = {
@@ -22,7 +25,10 @@ const correct_me_flairids = {
     "WriteStreakGerman": "f208bf10-ffbc-11ea-98ea-0ee0605402d7",
     "WriteStreakIT": null,
     "WriteStreakJP": "fe419b46-840d-11eb-bdfd-0e9867bf1aff",
-    "WriteStreakNL": "3d9e7da2-3761-11ec-b274-de63c61c2ac7"
+    "WriteStreakNL": "3d9e7da2-3761-11ec-b274-de63c61c2ac7",
+    "WriteStreakKorean": "b46a631e-c908-11eb-b6fc-0e28653e70d5",
+    "WriteStreakRU": null,
+    "WriteStreakFI": null,
 }
 
 

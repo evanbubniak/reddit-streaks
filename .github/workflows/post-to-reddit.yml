@@ -22,6 +22,7 @@ jobs:
           if [[ `git status --porcelain --untracked-files=no` ]]; then
           git add _posts
           git commit -m "$(date): publish"
+          git push origin main
           fi
           
       

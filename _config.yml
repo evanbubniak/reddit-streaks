@@ -9,6 +9,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+future: true
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/

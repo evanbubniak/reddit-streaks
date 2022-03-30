@@ -6,7 +6,7 @@ lang: it
 date: 2022-03-30
 published: true
 streak-number: 2
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/ts9s30/streak_2_installazione_ubuntu_su_computer_vecchio/
 ---
 Iersera ho passato qualche ora ad installare Ubuntu sul computer portatile Windows vecchio di mio zio. L'installazione è stato un successo e, nonostante la sua... età avanzata, funziona senza problemi.  Adesso, ho scritto questo posto su quel computer sotto Ubuntu, sul editor di testo Vim.
 

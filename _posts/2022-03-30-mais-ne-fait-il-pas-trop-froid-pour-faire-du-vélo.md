@@ -6,7 +6,7 @@ lang: fr
 date: 2022-03-30
 published: true
 streak-number: 7
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/tsc2ss/streak_7_mais_ne_faitil_pas_trop_froid_pour_faire/
 ---
 "You're going biking? But isn't it cold?"
 

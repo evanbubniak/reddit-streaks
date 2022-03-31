@@ -3,6 +3,22 @@ const yaml = require('js-yaml');
 const axios = require('axios');
 const RedditPoster = require("./RedditPoster.js");
 
+async function getPostContent(redditLink) {
+    const jsonpath = encodeURI(redditLink + ".json");
+    return new Promise((resolve, reject) => {
+        axios.get(jsonpath, {
+            'User-Agent': 'GitHub Pages to Reddit Publisher (by /u/ebubsy)'
+        })
+        .then(resp => {
+            const redditContent = resp.data[0]['data']['children'][0]['data']['selftext'].trim();
+            resolve(redditContent);
+        })
+        .catch(err => {
+            reject(err);
+        })
+    })
+}
+
 const langs_to_subreddit = {
     "fr": "WriteStreak",
     "zh": "WriteStreakCN",
@@ -79,26 +95,18 @@ posts.forEach(postFileName => {
             })
         }
     } else {
-        // check if the content has changed
-        const jsonpath = encodeURI(redditLink + ".json");
-        axios.get(jsonpath, {
-            'User-Agent': 'GitHub Pages to Reddit Publisher (by /u/ebubsy)'
-        })
-            .then(resp => {
-                const data = resp.data;
-                const redditContent = data[0]['data']['children'][0]['data']['selftext'].trim();
-                // console.log(redditContent)
-                if (content === redditContent) {
-                    // no-op
-                } else {
-                    // need to edit the post
-                    console.log("should edit: " + redditLink)        
-                    if (!redditPoster) {
-                        redditPoster = new RedditPoster();
-                    }
-                    redditPoster.edit(redditLink, content);                    
-                }
-            })
+        // // check if the content has changed
+        // getPostContent(redditLink)
+        // .then(redditContent => {
+        //     if (content === redditContent) {
+        //         // no-op
+        //     } else {
+        //         // need to edit the post       
+        //         if (!redditPoster) {
+        //             redditPoster = new RedditPoster();
+        //         }
+        //         redditPoster.edit(redditLink, content);                    
+        //     }
+        // })
     }
-
 })

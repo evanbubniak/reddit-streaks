@@ -2,6 +2,7 @@ import re
 import yaml
 import os
 import datetime
+from remove_chars import remove_chars
 
 FM_BOUNDARY = re.compile(r"^-{3,}\s*$", re.MULTILINE)
 
@@ -22,11 +23,6 @@ for post_filename in posts:
     fm: dict = yaml.safe_load(fm_raw)
     title = fm['title']
     date = fm['date']
-    chars_to_remove = [",", ".", "?", "«", "»"]
-    def remove_chars(title):
-        for char_to_remove in chars_to_remove:
-            title = title.replace(char_to_remove, "")
-        return title
     post_title_stripped = "-".join([token for token in remove_chars(title.lower()).split(" ") if token])
     new_filename = f"{date}-{post_title_stripped}.md"
 

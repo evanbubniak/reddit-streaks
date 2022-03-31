@@ -6,7 +6,7 @@ lang: de
 date: 2022-03-31
 published: true
 streak-number: 8
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/tszxkf/streak_8_findet_ihr_auch_dass_es_fast_unmöglich/
 ---
 Ich hasse es wirklich, gedruckte Texte wie Papiere oder Bücher lesen zu müssen. Das war häufig der Fall, als ich noch an die Schule ging, und es ist auch an der Uni vorgekommen.
 
@@ -18,4 +18,4 @@ Okay, aber wie wäre es, wenn ich zwischen all diesen Positionen in regelmäßig
 
 Heutzutage habe ich eine gute Lösung gefunden: Ich lese halt keinen gedruckten Lesestoff mehr. Ich besitze selber keinen Drucker und wenn ich ein Buch lesen will, suche ich nach einer Digital-Auflage.
 
-Und dann kommt es zu Problemen damit, eine gute, ergonomische Position vorm Computer zu finden, aber diese Probleme sind zumindest lösbar. 
+Und dann kommt es zu Problemen damit, eine gute, ergonomische Position vorm Computer zu finden, aber diese Probleme sind zumindest lösbar.

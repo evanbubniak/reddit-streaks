@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installazione Ubuntu su computer vecchio 
+title: Installazione Ubuntu su computer vecchio
 categories: [it]
 lang: it
 date: 2022-03-30

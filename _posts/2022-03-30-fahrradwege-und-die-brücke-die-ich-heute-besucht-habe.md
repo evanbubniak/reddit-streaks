@@ -6,7 +6,7 @@ lang: de
 date: 2022-03-30
 published: true
 streak-number: 7
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/tsqevn/streak_7_fahrradwege_und_die_brücke_die_ich_heute/
 ---
 Ich lebe in einem Gebiet unserer Stadt, das eigentlich, oder zumindest im Vergleich zu anderen amerikanischen Städten und vor allem im Vergleich zu Vorstädten, sehr freundlich gegenüber Fahrräder ist: Es gibt Radfahrstreifen auf vielen Straßen, in manchen Gebieten mit Pollern zum Schutz von Radfahrern, und es gibt ein ganzes paralleles Netzwerk von Fahrradpfade, die zum größten Teil komplett abgetrennt vom Stau der Straßen sind.
 

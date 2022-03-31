@@ -232,9 +232,16 @@ class RedditPoster {
 
     _getRateLimitSeconds(errorMessage) {
         // This is a very naive way of overcoming the RATELIMIT but I have no choice
-        const matchMessage = errorMessage.match(
+        let matchMessage;
+        matchMessage = errorMessage.match(
             /RATELIMIT.*try again in (\d*) (s|m)/
         )
+
+        if (!matchMessage) {
+            matchMessage = errorMessage.match(
+                /RATELIMIT.*Take a break for (\d*) (s|m)/
+            )
+        }
 
         if (!matchMessage || matchMessage.length < 3) {
             return -1

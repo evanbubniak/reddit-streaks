@@ -10,7 +10,7 @@ reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/tszxkf/streak_8_
 ---
 Ich hasse es wirklich, gedruckte Texte wie Papiere oder Bücher lesen zu müssen. Das war häufig der Fall, als ich noch an die Schule ging, und es ist auch an der Uni vorgekommen.
 
-Das sollte nicht heißen, dass der Lesestoff an sich schlecht war. Es gab zwar viele Texte die mir sehr gefallen haben. Aber ich habe es immer schwierig gefunden, gedruckte Texte auf eine Weise durchzulesen, dass für meinen Körper und meine Augen bequem war. Das ist noch heute der Fall.
+Das sollte nicht heißen, dass der Lesestoff an sich schlecht war. Es gab zwar viele Texte die mir sehr gefallen haben. Aber ich habe es immer schwierig gefunden, gedruckte Texte auf eine Weise durchzulesen, die für meinen Körper und meine Augen bequem war. Das ist noch heute der Fall.
 
 Auf dem Boden/Bett liegen und mit den Händen das Buch über sich halten? Geht nicht, nach einigen Minuten werden die Arme müde. Im Armsessel sitzen und das Buch im Schoß halten? Nee, so wird der Nacken bald wehtun. Wie wäre es dann auf dem Bauch mit dem Buch vor sich? Das führte auch zu Nackenschmerzen. 
 

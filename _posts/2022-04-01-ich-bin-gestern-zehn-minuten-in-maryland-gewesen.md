@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-01
 published: true
 streak-number: 9
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/ttsjug/streak_9_ich_bin_gestern_zehn_minuten_in_maryland/
 ---
 Wie ich in einem vorigen Post erwähnt habe, wollte ich die Wilson Bridge von Virginia bis nach Maryland überqueren, damit ich sehen kann, wie es auf der anderen Seite des Potomacs aussieht.
 

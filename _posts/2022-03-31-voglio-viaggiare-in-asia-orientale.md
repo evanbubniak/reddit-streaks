@@ -6,7 +6,7 @@ lang: it
 date: 2022-03-31
 published: true
 streak-number: 3
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tterki/streak_3_voglio_viaggiare_in_asia_orientale/
 ---
 Due anni fa - ovvero in una epoca oggi nel passato lontano - avevo in mente l'idea di viaggiare con alcuni amici in Asia dopo la nostra graduazione. All'epoca (com'è tuttavia il caso oggi) stavo imparando a parlare cinese, e volevo anche aggiunguere delle altre lingue asiatiche, al più presto il giapponese e forse nel futuro anche il coreano, il cantonese, ed il vietnamita. Mi piace imparare lingue straniere, e mi piacciono in particolare quelle lingue che representarebbero una sfida (ma che hanno anche abbastanza risorse e gente chi le parlano, tale che avrei delle opportunità per usarle dopo averle imparato).
 

@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-01
 published: true
 streak-number: 4
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/ttx46v/streak_4_sviluppare_uno_stilo_di_scittura_in_una/
 ---
 Oggi mi sono reso conto della difficoltà del elaborare una "voce" propria a me quando compongo un messaggio qui. Forse non dovrebbe essere una sorpresa - ogni lingua possiede degli stili di scrittura propri, e ci sono degli stili di scrittura che sembrarebbero naturali in una lingua ma che in un'altra sembrano essere molto strani.
 

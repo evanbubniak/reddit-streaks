@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-01
 published: true
 streak-number: 9
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/ttur9j/streak_9_le_maine_coon/
 ---
 Mon voisin possède un chat, dont la race s'appèlle « Maine coon ». Il s'appèlle Mateo et, comme il vous le montrera très vite si jamais vous prenez un pas dans l'appartement de mon voisin, il vous aime. Il ne vous connait pas, il ne vous a jamais vus, vous ne lui avez rien dit. Il ne sait rien de qui vous êtes, mais il sait déjà qu'il vous aime, et il n'y a rien de ce monde qu'il veut faire plus que de vous le montrer.
 

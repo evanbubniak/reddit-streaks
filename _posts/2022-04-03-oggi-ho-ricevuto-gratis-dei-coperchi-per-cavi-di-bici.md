@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-03
 published: true
 streak-number: 5
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tv369u/streak_5_oggi_ho_ricevuto_gratis_dei_coperchi_per/
 ---
 Ho avuto un po' di tempo libero inaspettato oggi, e mi sono trovato vicino al negozio di biciclette locale. Avevo bisogna di visitarlo, perché un cavo della mia bicicletta, più precisamente il cavo di cambio per il deragliatore anteriore è diventato sfilacciato. Originalmente c'era un coperchio sulla fine del cavo che doveva impedire la sfilacciatura del cavo. Non so né quando né come è scomparso, ma senza coperchio, è davvero pericoloso di avere le mani vicino al cavo, perché i fili potranno tagliare la mano.
 

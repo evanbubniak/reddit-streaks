@@ -74,12 +74,6 @@ posts.forEach(postFileName => {
             const subreddit = langs_to_subreddit[lang];
             const flairId = correct_me_flairids[subreddit];
             const title = "Streak " + fm['streak-number'] + ": " + fm['title'];
-
-            console.log(subreddit)
-            console.log(title)
-            console.log(flairId)
-            console.log(content)
-
             if (!redditPoster) {
                 redditPoster = new RedditPoster();
             }

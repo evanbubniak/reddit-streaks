@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-02
 published: true
 streak-number: 10
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/tv100j/streak_10_je_dois_lubrifier_encore_une_fois_la/
 ---
 Hier et aujourd'hui, je suis sorti pour rouler un peu à vélo. Hier c'était pour faire le trajet sur une piste cyclable (un sentier qui s'appelle le Mount Vernon Trail) vers Mount Vernon. Le trajet aller-retour pour moi fait aux alentours de 50 km (31 milles), alors ça m'a pris pas mal de temps (un peu plus de 3 heures). Il s'agit du plus grand trajet que j'ai jamais fait. Aujourd'hui c'était pour faire des petites courses et explorer la ville un peu. Hier comme aujourd'hui, mais surtout aujourd'hui, j'ai noté que la chaîne de mon vélo faisait du bruit, signe indubitable qu'il faut lubrifier la chaîne. Cela se produit souvent après qu'il pleut si la chaîne a été totalement trempée. Ce qui était bien le cas il y a deux jours.
 

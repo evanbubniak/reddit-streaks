@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-04
 published: true
 streak-number: 6
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tvu7kf/streak_6_come_scrivo_e_posto_i_miei_streaks/
 ---
 Ciao a tutti,
 

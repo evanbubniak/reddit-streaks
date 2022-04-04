@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-04
 published: true
 streak-number: 11
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/tvv7r3/streak_11_jaime_bien_les_lecteurs_rss/
 ---
 Il y a des mois, j'ai découvert le lecteur RSS « newsboat » et l'ai installé mon terminal. Je n'ai pas pu le savoir à l'époque, mais cela était le premier pas vers une nouvelle façon de penser pour moi : une façon de penser orientée vers les terminaux.
 

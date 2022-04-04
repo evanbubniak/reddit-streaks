@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-04
 published: true
 streak-number: 11
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/tvvio9/streak_11_ich_könnte_avatar_der_herr_der_elemente/
 ---
 Dieser Beitrag wird im Vergleich zu meinen anderen etwas kürzer sein: es ist schon längst spät geworden und ich will ins Bett :)
 

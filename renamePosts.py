@@ -24,7 +24,7 @@ for post_filename in posts:
     fm: dict = yaml.safe_load(fm_raw)
     title = fm['title']
     date = fm['date']
-    post_title_stripped = "-".join([token for token in remove_chars(title.lower()).split(" ") if token])
+    post_title_stripped = "-".join([token for token in remove_chars(title.lower()).split(" ") if token]).replace("---","-")
     new_filename = f"{date}-{post_title_stripped}.md"
 
     if post_filename != new_filename:

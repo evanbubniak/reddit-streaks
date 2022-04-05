@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-05
 published: true
 streak-number: 12
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/twnfqv/streak_12_ich_habe_keine_angst_mehr_anki_wieder/
 ---
 Der Titel meines ersten Beitrags hier, vor knapp zwei Wochen, lautete wie folgt: "Ich habe ein bisschen Angst, Anki wieder zu öffnen." In dem Beitrag habe ich beschrieben, wie ich meine tägliche Anki-Karten längst nicht wiederholt hatte. Ich habe auch erwähnt, dass ich hoffte, dass der Tag bald kommen würde, an dem ich meine Reviews in vollem Zuge mache.
 

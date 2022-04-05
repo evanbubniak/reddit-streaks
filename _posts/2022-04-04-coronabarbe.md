@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-04
 published: true
 streak-number: 12
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/twhyq4/streak_12_coronabarbe/
 ---
 Il était une fois un jeune étudiant, âgé de 21 ans, coincé dans un petit appartement à New York avec trois autres colocs quand le monde s'est plongé dans une crise comme aucune autre crise qui l'avait précédée au cours de sa vie.
 

@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-06
 published: true
 streak-number: 13
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/txdkjp/streak_13_scanner_de_documents_avec_chargeur/
 ---
 J'ai honte de l'avouer: J'ai recémment acheté un scanner pour la première fois, et j'ai hâte de voir comment il pourra changer la vie chez nous. J'ai encore plus honte d'avouer que, afin de composer cet article, j'ai dû télécharger le guide utilisateur pour ce scanner dans l'espoir de bien manier les termes techniques pour ses composants.
 

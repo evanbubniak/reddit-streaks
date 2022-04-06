@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-06
 published: true
 streak-number: 8
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/txn3x1/streak_8_voglio_disfarmi_del_pianoforte_verticale/
 ---
 Non abbiamo spazio per un pianoforte verticale a casa. Ciononostante, abbiamo un pianoforte.
 

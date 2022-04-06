@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-05
 published: true
 streak-number: 13
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/txc4h9/streak_13_ich_musste_meine_heutige_radfahrt/
 ---
 In einem früheren Beitrag habe ich über den Arlington Loop geschrieben. Es handelt sich dabei um einen etwa 27 Kilometer langen Kreislauf, der aus vier Teilstrecken der örtlichen abgetrennen Fahrradwege besteht und rund um das Arlington-County geht. Weil der Kreislauf lang ist, komplett vor Autos geschützt ist, und gut aufrechterhalten wird, kann man sich gut bewegen und das Gebiet gleichzeitig erkunden, indem man den ganzen Kreislauf radelt, aber wenn man ein bestimmes Reiseziel hat, gibt es häufig direktere Wege. Beim letzten Mal, dass ich den ganzen Kreislauf durchgeradelt habe, hat die ganze Fahrt eineinhalb Stunden genommen.
 

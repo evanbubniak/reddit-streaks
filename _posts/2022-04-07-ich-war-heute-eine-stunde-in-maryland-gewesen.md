@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-07
 published: true
 streak-number: 14
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/ty59h1/streak_14_ich_war_heute_eine_stunde_in_maryland/
 ---
 Ich habe in einem früheren Beitrag erwähnt, dass ich das National-Harbor-Gebiet Marylands besuchen wollte, aber auch dass ich dieses Vorhaben auf eine künftige Fahrt verschoben hatte. Dieser verspätete Ausflug hat heute stattgefunden. Und diesmal hat es zum Glück sogar weder Regen noch Hagel gegeben!
 

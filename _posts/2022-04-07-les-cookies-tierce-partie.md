@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-07
 published: true
 streak-number: 14
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/tyfplv/streak_14_les_cookies_tierce_partie/
 ---
 Pour pratiquer les langues étrangères que j'apprends, je vais souvent sur une application d'« échange linguistique » du nom de Tandem. En fait, je suis sur cette appli déjà depuis cinq ans, et j'en ai beaucoup profité.
 

@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-07
 published: true
 streak-number: 9
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tyherv/streak_9_ieri_ho_cominciato_a_guardare_legend_of/
 ---
 Come il titolo suggerisce, sto guardando la serie Nickelodeon The Legend of Korra (La leggenda di Korra). La prima volta che l'ho guardato era in 2020, quando è apparsa su Netflix qui negli Stati Uniti.
 

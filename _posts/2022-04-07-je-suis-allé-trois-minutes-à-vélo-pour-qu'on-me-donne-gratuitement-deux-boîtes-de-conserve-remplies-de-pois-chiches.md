@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-07
 published: true
 streak-number: 15
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/tyot1h/streak_15_je_suis_allé_trois_minutes_à_vélo_pour/
 ---
 Le bloc d'appartements dans lequel j'habite possède quelques pages Facebook dédiées pour qu'on puisse donner des choses gratuitement aux voisins au lieu de les jeter. Je trouve que c'est un moyen très efficace d'économiser, et en plus de cela, ça facilite aussi le rangement, parce que s'il y a quelque chose que je ne veux plus avoir, il est facile de prendre quelques photos, faire un message, et voir rapidement s'il y a du monde dans le coin qui voudrait venir chez nous pour nous en libérer.
 

@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-08
 published: true
 streak-number: 10
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tz9p0w/streak_10_questo_fine_settimana_sarò_giudice_per/
 ---
 Sui fine settimana, per guadagnare un po' di soldi, mi piace giudicare le concorrenze di dibattito nelle scuole secondarie americane (high school). Io ero dibattitore fra 2013 e 2017 alla mia high school ed ho participato a numerose concorrenze di questo genero da concorrente come da giudice. Il format si chiama "Public Forum" ei ci saranno due team composti di due alunni, un team affermativo e un team negativo.
 

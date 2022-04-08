@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-08
 published: true
 streak-number: 15
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/tz8ps1/streak_15_ich_bin_gestern_nirgends_geradelt/
 ---
 Gestern regnete es den ganzen Tag, also habe ich keine große Radfahrten abgeschlossen. Ich habe nur einen kleinen, mehrminütigen Ausflug gemacht, um zwei Dosen Kichererbsen von einer Nachbarin zu holen. (Ich habe die ganze Geschichte darüber in [einem Post auf Französisch](https://www.reddit.com/r/WriteStreak/comments/tyot1h/streak_15_je_suis_allé_trois_minutes_à_vélo_pour/) erzählt.)
 

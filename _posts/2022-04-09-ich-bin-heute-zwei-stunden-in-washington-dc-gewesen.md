@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-09
 published: true
 streak-number: 16
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/tzmu31/streak_16_ich_bin_heute_zwei_stunden_in/
 ---
 Heute war das Wetter perfekt: 15 Grad, es gab keinen Regen und nicht zu viel Wind, und es war wölkig genug, dass meine Augen bequem sonnenscheinfrei waren.
 

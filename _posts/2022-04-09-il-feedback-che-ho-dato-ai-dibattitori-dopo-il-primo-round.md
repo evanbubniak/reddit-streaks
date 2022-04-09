@@ -10,7 +10,7 @@ reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tzyxo1/streak_11_il_
 ---
 Il primo round della gara di dibattito in cui sto participando da giudice è finito qualche ora fa.
 
-Tutti i giudici devono scrivere un testo, chiamato le Ragioni per la Decisione (Reasons for Decision), per spiegare il ragionamento della loro votazione. Io cerco normalmente di scriverne un piuttosto lungo per indicare i punti forti e punti deboli di ogna squadra.
+Tutti i giudici devono scrivere un testo, chiamato le Ragioni per la Decisione (Reasons for Decision), per spiegare il ragionamento della loro votazione. Io cerco normalmente di scriverne un piuttosto lungo per indicare i punti forti e punti deboli di ogni squadra.
 
 Ho tradotto le mie RfD, presentate qui senza tutto il contesto necessario:
 

@@ -1,3 +1,3 @@
-#/usr/bin/bash
+#!/bin/bash
 git push origin main
 echo "git pull" | at now + 5 minutes

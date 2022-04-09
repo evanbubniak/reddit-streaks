@@ -30,3 +30,4 @@ for post_filename in posts:
     if post_filename != new_filename:
         # print(post_filename, new_filename)
         os.rename(os.path.join(posts_dir, post_filename), os.path.join(posts_dir, new_filename))
+        print(new_filename)

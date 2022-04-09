@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-08
 published: true
 streak-number: 16
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/tzl62g/streak_16_les_choses_que_je_voudrais_bien_aimer/
 ---
 Il devient tard chez moi et je n'ai toujours rien écrit, je n'ai même pas pensé à ce que je voudrais écrire.
 

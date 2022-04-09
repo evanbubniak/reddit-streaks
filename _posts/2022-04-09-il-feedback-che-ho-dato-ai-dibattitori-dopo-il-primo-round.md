@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-09
 published: true
 streak-number: 11
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tzyxo1/streak_11_il_feedback_che_ho_dato_ai_dibattitori/
 ---
 Il primo round della gara di dibattito in cui sto participando da giudice è finito qualche ora fa.
 

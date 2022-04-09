@@ -1,0 +1,2 @@
+#/usr/bin/bash
+git add  _posts/*$1*.md

@@ -6,11 +6,11 @@ lang: it
 date: 2022-04-09
 published: true
 streak-number: 11
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/tzyxo1/streak_11_il_feedback_che_ho_dato_ai_dibattitori/
 ---
 Il primo round della gara di dibattito in cui sto participando da giudice è finito qualche ora fa.
 
-Tutti i giudici devono scrivere un testo, chiamato le Ragioni per la Decisione (Reasons for Decision), per spiegare il ragionamento della loro votazione. Io cerco normalmente di scriverne un piuttosto lungo per indicare i punti forti e punti deboli di ogna squadra.
+Tutti i giudici devono scrivere un testo, chiamato le Ragioni per la Decisione (Reasons for Decision), per spiegare il ragionamento della loro votazione. Io cerco normalmente di scriverne un piuttosto lungo per indicare i punti forti e punti deboli di ogni squadra.
 
 Ho tradotto le mie RfD, presentate qui senza tutto il contesto necessario:
 

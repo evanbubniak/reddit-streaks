@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-10
 published: true
 streak-number: 12
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/u0tku5/streak_12_gli_autobus_della_contea_di_alexandria/
 ---
 Per calcolare il costo della vita di un luogo, ci sono molti fattori che devono venire presi in considerazione; i più grandi sono il costo dell'alloggio ed il del transporto. Per chi ha una macchina, deve calcolare i costi dell'assicurazione, della benzina (o della elettricità), della manutenzione, dei pedaggi, e del costo di acquisto della macchina in sé (o per essere più preciso, la differenza del costo originale ed il valore attuale che sarà più basso a causa dell'ammortamento).
 

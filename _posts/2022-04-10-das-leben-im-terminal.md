@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-10
 published: true
 streak-number: 17
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/u0rv95/streak_17_das_leben_im_terminal/
 ---
 Ich habe neuerdings die Linux-Distribution Ubuntu auf einen einigermaßen veralteten Laptop installiert, um ihm neue Lebenskraft zu verleihen und neue Zwecke dafür zu finden. Ich habe Ubuntu als Desktop-Betriebssystem in der Vergangenheit benutzt, aber noch nie auf Dauer, und seit 2016 benutzte ich es nicht mehr. 2019 habe ich angefangen, WSL (also Ubuntu unter Windows) zu benutzen, aber das war nur im Terminalmodus und WSL hatte keine eigene graphische Benutzterschnittstelle; WSL läuft stattdessen innerhalb der graphischen Benutzterschnittstelle Windows, als Terminalfenster entweder in der CMD-Anwendung oder in der vor ein Paar Jahren veröffentlichen Windows Terminal-Anwendung.
 

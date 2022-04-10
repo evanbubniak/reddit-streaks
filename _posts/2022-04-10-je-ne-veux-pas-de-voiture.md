@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-10
 published: true
 streak-number: 17
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/u0szm7/streak_17_je_ne_veux_pas_de_voiture/
 ---
 Je pense beaucoup à de quel genre de changements il faudrait pour que l'humanité soit viable à longue durée, tout en maintenant un bon mode de vie. Ce qui me surprend, c'est le fait que, plus j'apprends sur le sujet, plus je crois qu'on n'a pas besoin de faire de grands sacrifices dans ce but, on peut toujours se réjouir d'une vie basiquement aisée, mais il faudra changer, dramatiquement, la façon dont on fait ça. C'est-à-dire, on devra consommer moins, mais il ne sera pas nécessaire ni de vivre moins, ni d'être moins heureux, ni d'être moins sûr, ni de dépenser davantage d'argent. Ce qu'il faut, c'est d'arrêter de gâcher. Et croyez-le-moi, il y a beaucoup de gaspillage, tous les jours, qu'il faut arrêter.
 

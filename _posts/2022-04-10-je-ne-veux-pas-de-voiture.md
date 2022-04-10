@@ -1,0 +1,19 @@
+---
+layout: post
+title: Je ne veux pas de voiture
+categories: [fr]
+lang: fr
+date: 2022-04-10
+published: true
+streak-number: 17
+reddit-url:
+---
+Je pense beaucoup à de quel genre de changements il faudrait pour que l'humanité soit viable à longue durée, tout en maintenant un bon mode de vie. Ce qui me surprend, c'est le fait que, plus j'apprends sur le sujet, plus je crois qu'on n'a pas besoin de faire de grands sacrifices dans ce but, on peut toujours se réjouir d'une vie basiquement aisée, mais il faudra changer, dramatiquement, la façon dont on fait ça. C'est-à-dire, on devra consommer moins, mais il ne sera pas nécessaire ni de vivre moins, ni d'être moins heureux, ni d'être moins sûr, ni de dépenser davantage d'argent. Ce qu'il faut, c'est d'arrêter de gâcher. Et croyez-le-moi, il y a beaucoup de gaspillage, tous les jours, qu'il faut arrêter.
+
+Depuis des mois, je suis les travaux d'une organisation à but non lucratif aux États-Unis du nom de Strong Towns. Cette dernière se concentre majoritairement sur état fiscal des villes et municipalités américaines, mais elle parle plus généralement de ce qu'il faut pour qu'une ville puisse devenir et rester résiliente, viable, et capable de faire face à n'importe quel défi qui l'attend. Elle parle de la non-viabilité fondamentale du mode de développement que les municipalités nord-amériques ont adopté et persisent jusqu'à présent à suivre. Ils se focalisent sur l'aspect fiscal et économique, comme des comptables: mais au-déla du fait que ce mode de développement ne peut pas et ne pourra jamais se payer les coûts de construction et maintien, et étouffera donc les municipalités qui en ont assumé les coûts dans l'espoir que leur « investissement » sera un gagnant, et appauvrira les habitants en leur imposant des coûts extraordinaires, que ça soit l'argent nécessiare pour acheter leur voiture, acheter/assurer/maintenir leur domicile et voiture, ou le temps nécessaire pour se déplacer, le manque d'indépendance dont souffriront les enfants et les personnnes âgées dû à l'impossibilité de se déplacer librement et en sécurité... au-déla de tout ça, je parle de mes éxperiences personnelles en disant: ce mode de développement a produit de endroits dans lesquels habiter fait mal.
+
+Au cours des quatre-vingt ans derniers, surtout aux États-Unis et au Canada, le mode de développement que l'on a eu était centré autour de la voiture, et de la supposition que conduire une voiture soit la meilleure façon de se déplacer, et que la voiture doive devenier un mode de vie, à l'exclusion de toute autre forme de transportation. C'est chez nous, en Amérique du Nord, que cette tendance s'est affichée plus visiblement que dans n'importe quel autre pays, mais tous les pays développés - y compris les Pays-Bas, pays réputé aujourd'hui pour la dominance du vélo dans les deplacements quotidiens - avaient modifié leur mode de développement avec la voiture en tête.
+
+Je n'ai pas de voiture, et j'ai habité dans plusieurs régions (non loin de grandes villes) où quasiment tout le monde en possèdait au moins deux et les utilisait tous les jours, que ça soit pour achéter de la bouffe au supermarché, ou pour aller à l'école, ou pour aller au taf, ou pour voir le médécin, ou pour visiter un ami, ou pour... faire toutes les choses qu'ils ne pouvaient pas faire depuis chez eux. Habiter dans une zone résidentielle à basse densité, plein de grands domiciles détachés équipés de razons surdimensionnés, loin de toute trace de civilization sauf les gros morceaux de métal sur les routes asphaltées et les « strip mall » dont le parking est deux fois plus grand que les magasins qu'il déssert... c'est un mode de vie qui tue l'esprit, et pourtant ça fait la plupart de nouvelles zones résidentielles.
+
+Je ne veux pas de voiture. Je ne veux même pas voir de voiture. Pourquoi a-t-on construit ce genre de monde ?

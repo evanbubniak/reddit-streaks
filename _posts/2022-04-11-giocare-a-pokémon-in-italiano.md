@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-11
 published: true
 streak-number: 13
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/u1fltz/streak_13_giocare_a_pokémon_in_italiano/
 ---
 Avevo dimenticato fino ad oggi che ho avviato un nuovo gioco Pokémon al inizio di quest'anno. Si tratta della versione Nera 2. Infatti non ho tuttavia giocato alla versione Bianca/Nera 1, allora magari un'altra volta dovrò giocarci, anche se sarebbe fuori dell'ordine. Ma per oggi, sono ritornato a giocare a Nera 2.
 

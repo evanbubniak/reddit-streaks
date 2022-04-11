@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-11
 published: true
 streak-number: 18
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/u1f5yy/streak_18_wieso_muss_ich_all_diese_informationen/
 ---
 Ich bewerbe mich gerade bei einem neuen Job, da ich seit einigen Monaten nicht mehr arbeite, und wieder Geld verdienen und meine Karriere wieder in Betrieb setzen will. Ich suche insbesondere nach Stellen, die mir Arbeit im Homeoffice erlauben.
 

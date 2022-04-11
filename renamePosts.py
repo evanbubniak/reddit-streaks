@@ -8,7 +8,7 @@ from remove_chars import remove_chars
 FM_BOUNDARY = re.compile(r"^-{3,}\s*$", re.MULTILINE)
 
 posts_dir = "_posts"
-posts = os.listdir(os.path.join(os.getcwd(), posts_dir))
+posts = filter(lambda fname: fname[-3:] == ".md", os.listdir(os.path.join(os.getcwd(), posts_dir)))
 
 
 for post_filename in posts:

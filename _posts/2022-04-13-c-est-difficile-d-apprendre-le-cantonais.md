@@ -6,7 +6,7 @@ lang: fr
 date: 2022-04-13
 published: true
 streak-number: 19
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/u2jet1/streak_19_cest_difficile_dapprendre_le_cantonais/
 ---
 Cet article est une traduction d'[un post que j'ai écrit en chinois cantonais](https://www.reddit.com/r/WriteStreakCN/comments/u2asm2/streak_19_%E5%AD%B8%E7%BF%92%E5%BB%A3%E6%9D%B1%E8%A9%B1%E5%94%94%E5%AE%B9%E6%98%93%E7%B2%B5%E8%AA%9E%E7%99%BD%E8%A9%B1%E6%96%87%E6%96%87%E7%AB%A0/).
 

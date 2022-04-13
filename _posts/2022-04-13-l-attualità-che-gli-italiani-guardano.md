@@ -6,7 +6,7 @@ lang: it
 date: 2022-04-13
 published: true
 streak-number: 14
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakIT/comments/u2jr8l/streak_14_lattualità_che_gli_italiani_guardano/
 ---
 Questo è allo stesso tempo un'articolo ed una domanda.
 

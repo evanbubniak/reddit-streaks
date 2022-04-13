@@ -6,7 +6,7 @@ lang: de
 date: 2022-04-13
 published: true
 streak-number: 19
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/u2izii/streak_19_ich_habe_heute_einen_stuhl_gekauft_und/
 ---
 Die Wohnsiedlung, in der ich aktuell wohne, besitzt mehrere dedizierte Facebook-Seiten, mit denen man Sachen gratis oder zu niedrigem Preis an Nachbarn weitergeben kann, statt diese in den Müll zu werfen. Ich finde, dass es ein guter Weg ist, um zu sparen, und auch um aufzuräumen, weil falls es etwas gibt, das ich nicht mehr haben will, ist es eigentlich sehr leicht, ein paar Fotos zu nehmen, einen Post zu schreiben, und zu sehen, ob es Leute in der Nähe gibt, die gerne bei uns kommen wollen, um uns von unseren ungewollten Sachen zu befreien.
 

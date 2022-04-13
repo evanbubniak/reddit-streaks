@@ -22,6 +22,9 @@ async function getPostContent(redditLink) {
 const langs_to_subreddit = {
     "fr": "WriteStreak",
     "zh": "WriteStreakCN",
+    "zh-yue": "WriteStreakCN",
+    "zh-hans": "WriteStreakCN",
+    "zh-hant": "WriteStreakCN",
     "da": "WriteStreakDanish",
     "es": "WriteStreakES",
     "de": "WriteStreakGerman",

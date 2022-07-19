@@ -6,7 +6,7 @@ lang: fr
 date: 2022-07-19
 published: true
 streak-number: 1
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreak/comments/w32yim/streak_1_premier_souvenir_denfance_la_balançoire/
 ---
 Malheureusement, je manquais de compétences chronologiques pendant mon enfance, alors je ne peux pas réellement savoir quel était mon premier souvenir. Pourtant, j'ai quelques souvenirs de moments qui ont eu lieu quand j'avais un âge très tendre, peut-être 3 ou 4 ans.
 

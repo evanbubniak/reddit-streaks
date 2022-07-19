@@ -6,7 +6,7 @@ lang: de
 date: 2022-07-19
 published: true
 streak-number: 1
-reddit-url:
+reddit-url: https://www.reddit.com/r/WriteStreakGerman/comments/w32zxj/streak_1_tropenrooster/
 ---
 Als ich gestern einen Artikel auf Niederländisch über die Folgen der Hitzewelle in den Niederlanden las, bin ich auf ein neues Wort gestoßen, das ich auf dem englischsprachigen Wiktionary nicht finden konnte: _tropenrooster_, ich glaube auf Deutsch das wäre Tropenzeitplan. Ich musste auf dem niederländischsprachigen Wiktionary nachschlagen, um seine Bedeutung zu finden. Was ist denn ein Tropenrooster?
 
